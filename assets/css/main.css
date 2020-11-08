@@ -2402,7 +2402,7 @@ input, select, textarea {
 			}
 
 			ul.feature-icons li:before {
-				background: #4acaa8;
+				background: #4CAC9D;
 				border-radius: 100%;
 				color: #ffffff;
 				display: block;
@@ -2618,7 +2618,7 @@ input, select, textarea {
 		input[type="reset"].primary,
 		input[type="button"].primary,
 		.button.primary {
-			background-color: #4acaa8;
+			background-color: #4CAC9D;
 			color: #ffffff !important;
 		}
 
@@ -2700,7 +2700,7 @@ input, select, textarea {
 		-webkit-justify-content: space-between;
 		-ms-justify-content: space-between;
 		justify-content: space-between;
-		background: #4acaa8;
+		background: #4CAC9D;
 		color: #d2f2e9;
 		height: 100%;
 		overflow-y: auto;
@@ -3076,7 +3076,7 @@ input, select, textarea {
 					}
 
 					#titleBar .toggle:before {
-						background: #4acaa8;
+						background: #4CAC9D;
 						color: #ffffff;
 						content: '\f0c9';
 						display: block;
