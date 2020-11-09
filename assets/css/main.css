@@ -1848,7 +1848,7 @@ input, select, textarea {
 		input[type="email"]:focus,
 		select:focus,
 		textarea:focus {
-			border-color: #4acaa8;
+			border-color: #4CAC9D;
 		}
 
 	select {
@@ -2808,7 +2808,7 @@ input, select, textarea {
 
 						#header > nav ul li a.active {
 							background: #fff;
-							color: #4acaa8 !important;
+							color: #4CAC9D !important;
 						}
 
 					#header > nav ul li:first-child {
@@ -3314,16 +3314,3 @@ input, select, textarea {
 			}
 
 	}
-
-	
-	.column {
-		float: left;
-		width: 50%;
-	  }
-	  
-	  /* Clear floats after the columns */
-	  .row:after {
-		content: "";
-		display: table;
-		clear: both;
-	  }
