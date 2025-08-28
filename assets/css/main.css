@@ -2792,7 +2792,8 @@ input, select, textarea {
 			}
 
 				#header > nav ul li {
-					border-top: solid 2px #5ccfb1;
+					/* border-top: solid 2px #5ccfb1; */
+					border-top: solid 2px #5a7da3;
 					display: block;
 					padding: 0;
 				}
@@ -2811,7 +2812,8 @@ input, select, textarea {
 
 						#header > nav ul li a.active {
 							background: #fff;
-							color: #4CAC9D !important;
+							/* color: #4CAC9D !important; */
+							color: #45597a !important;
 						}
 
 					#header > nav ul li:first-child {
