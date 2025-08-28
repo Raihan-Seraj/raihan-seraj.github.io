@@ -117,7 +117,8 @@ input, select, textarea {
 
 		a:hover {
 			border-bottom-color: transparent;
-			color: #4acaa8 !important;
+			/* color: #4acaa8 !important; */
+			color: #1e3c5f !important;
 		}
 
 	strong, b {
@@ -3083,7 +3084,8 @@ input, select, textarea {
 					}
 
 					#titleBar .toggle:before {
-						background: #4CAC9D;
+						/* background: #4CAC9D; */
+						background: #1e3c5f;
 						color: #ffffff;
 						content: '\f0c9';
 						display: block;
